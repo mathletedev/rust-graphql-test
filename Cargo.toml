@@ -1,0 +1,8 @@
+[package]
+name = "rust-graphql-test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+juniper = "0.10"
+juniper_warp = "0.1.0"
